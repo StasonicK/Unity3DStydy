@@ -1592,6 +1592,7 @@ GameObject:
   - component: {fileID: 1124096831}
   - component: {fileID: 1124096830}
   - component: {fileID: 1124096829}
+  - component: {fileID: 1124096832}
   m_Layer: 5
   m_Name: Scroll View
   m_TagString: Untagged
@@ -1657,7 +1658,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1124096827}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -1688,6 +1689,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1124096827}
   m_CullTransparentMesh: 1
+--- !u!114 &1124096832
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1124096827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d29fcad7c5bbc8240b299fd22422b43b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _image: {fileID: 1124096830}
+  _from: {r: 1, g: 1, b: 1, a: 1}
+  _to: {r: 0.41176474, g: 1, b: 0.44451672, a: 0}
 --- !u!1 &1243870883
 GameObject:
   m_ObjectHideFlags: 0
@@ -2131,6 +2147,18 @@ MonoBehaviour:
       - m_Target: {fileID: 1124096829}
         m_TargetAssemblyTypeName: UnityEngine.UI.ScrollRect, UnityEngine.UI
         m_MethodName: set_verticalNormalizedPosition
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1124096832}
+        m_TargetAssemblyTypeName: ColorChanger, Assembly-CSharp
+        m_MethodName: SetPosition
         m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -12,6 +13,14 @@ public class ColorChanger : MonoBehaviour
     [ContextMenu("Load From Color")]
     public void LoadFromColor()
     {
-        
+        if (_image != null)
+        {
+            _from = _image.color;
+        }
+    }
+
+    public void SetPosition(float position)
+    {
+        _image.color = Color.Lerp(_from, _to, position);
     }
 }
