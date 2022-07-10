@@ -4,5 +4,158 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Plugins/TypedScenes/Samples/SampleScene.unity
+    guid: 82636c8136d61ca4ea18dbdc068b314d
+  - enabled: 1
+    path: Assets/Plugins/Demigiant/DOTweenPro Examples/DOTweenPath.unity
+    guid: a351b59ca54a0bc4083c35844da13a61
+  - enabled: 1
+    path: Assets/Scenes/UserInterface/WorkWithEventsViaInspector.unity
+    guid: 8a389c32cd2f40b43a106b304e9666ac
+  - enabled: 1
+    path: Assets/Plugins/Demigiant/DOTweenPro Examples/DOTweenAnimation_Advanced.unity
+    guid: a5f7a56d339da84449899ecf95fbe33d
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/UserInterface/AnchorsAndUserInterfaceOptimisations.unity
+    guid: 53af94af1ad540b45b99871d7d230acb
+  - enabled: 1
+    path: Assets/Scenes/Dotween/Movement.unity
+    guid: 2ce262d19387e8e43b0dbd3cd8c42c32
+  - enabled: 1
+    path: Assets/Scenes/UserInterface/Panel.unity
+    guid: 93933e0fc180b1c41a221c73e105dff5
+  - enabled: 1
+    path: Assets/Scenes/Dotween/Path.unity
+    guid: 6a7575245fcc85e41b8daf2ea2a50cc8
+  - enabled: 1
+    path: Assets/Scenes/UserInterface/Slider.unity
+    guid: ca4fab2c13de9244aaef231c486d7e4d
+  - enabled: 1
+    path: Assets/Scenes/Dotween/Sequence.unity
+    guid: f7a74fed03588a2469806e4793e75f92
+  - enabled: 1
+    path: Assets/Blink/Art/Characters/LowPoly/Demo_FREE_LowPolyCharacter/DEMO_FREE_LowPolyHumans.unity
+    guid: e87512b69b78be84c91c6df3977d8383
+  - enabled: 1
+    path: Assets/Scenes/UserInterface/ScrollView.unity
+    guid: c03b4656eec6a8c428ad777545f02d25
+  - enabled: 1
+    path: Assets/Scenes/UserInterface/SliderAndScrollView.unity
+    guid: f18953a9bae0d7545966c0c52da4f8d7
+  - enabled: 1
+    path: Assets/Scenes/Dotween/Slider.unity
+    guid: 9de0af1d4b5b9944bbc4e1ab3bce3bd2
+  - enabled: 1
+    path: Assets/Scenes/UserInterface/AspectRatioFitter.unity
+    guid: 8d047e44265959a4ab30627b717b5464
+  - enabled: 1
+    path: Assets/Scenes/UserInterface/Canvas.unity
+    guid: 662c5ec399032c24da0bdf3d19551af4
+  - enabled: 1
+    path: Assets/Scenes/UserInterface/View.unity
+    guid: f482a94721cbc1643a89c5d0b908f762
+  - enabled: 1
+    path: Assets/Plugins/Demigiant/DOTweenPro Examples/DOTweenAnimation_Basics.unity
+    guid: 6a2ad353325ffe64983c28d69a8738f5
+  - enabled: 1
+    path: Assets/Scenes/Dotween/Chasing.unity
+    guid: 161b8a7593dfb0c4ea0ac878ec42fb76
+  - enabled: 1
+    path: Assets/Scenes/UserInterface/DragAndDrop.unity
+    guid: abdba25667267804eb14774f97896d55
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_01___Single_Line_TextMesh_Pro.unity
+    guid: cf87a8fc41f92d04897d6d13cd84f49a
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_25___Sunny_Days_Example.unity
+    guid: e0910168245090940a4e87ec97162713
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_08___Improved_Text_Alignment.unity
+    guid: c617b14c60540664cbff1df2920f055f
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_15___Inline_Graphics___Sprites.unity
+    guid: 654ecdb99c578bb4b818091ff3918124
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_17___Old_Computer_Terminal.unity
+    guid: 0affd1ebf75302b4690034f71afb4239
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark__Floating_Text_.unity
+    guid: df68764fec24b0a418c82fcd933b7d29
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_20___Input_Field_with_Scrollbar.unity
+    guid: 32a3f3804b44dd849a0578f6902e7442
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_02___Multi_line_TextMesh_Pro.unity
+    guid: b45d3e09a8ee2ff4db8d74425c881e96
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_09___Margin_Tag_Example.unity
+    guid: 4670035910d662f40ad9013ce6b8de4d
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_22___Basic_Scripting_Example.unity
+    guid: cc2affae112df1542b7dae2a292c9a5a
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_19___Masking_Texture___Soft_Mask.unity
+    guid: aa391a2624d82114b805b0ab10ab639b
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_13___Soft_Hyphenation.unity
+    guid: 8ff1b8c13f494d146ba525668ca33435
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_26___Dropdown_Placeholder_Example.unity
+    guid: 1175b99463458504f9f2575f00addca0
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_21___Script_Example.unity
+    guid: 1a239e4f2caa5214cbe98987f69b5b71
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_04___Word_Wrapping.unity
+    guid: 466f5b0bd37d0484f93bbd754ca7490e
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_24___Surface_Shader_Example.unity
+    guid: f75af3cdaa659e246a6f2d0da36774d4
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_16___Linked_text_overflow_mode_example.unity
+    guid: 950fe5432fc4db145a54fb87eafcf2a2
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_06___Extra_Rich_Text_Examples.unity
+    guid: 9c7f286a0df367344925b9bf3e2ea45e
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_14___Multi_Font___Sprites.unity
+    guid: 6d3acef2757f7354a927d07cb6ba0184
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_05___Style_Tags.unity
+    guid: 78f4b79359ca2074487bcefeb44b97bc
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_18___ScrollRect___Masking___Layout.unity
+    guid: ab26640e45d959b41acd015b6cbee3f3
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_12a___Text_Interactions.unity
+    guid: 114002b102dea8044a3a1edfbbd5e1e8
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_10___Bullets___Numbered_List_Example.unity
+    guid: 84f17f3aa698d0144856e745a1671a67
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_23___Animating_Vertex_Attributes.unity
+    guid: b08eee3858037434e88e41a8c99b362f
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_07___Superscript___Subscript_Example.unity
+    guid: b620e30246ba54b429923729104e3250
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_12___Link_Example.unity
+    guid: ef62bdffa617c3d49bc1ef2062e77739
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_03___Line_Justification.unity
+    guid: e2c666cbb55045e45b8557d7192a45b9
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/_11___The_Style_Tag.unity
+    guid: 6e68e2019cebb6946a9bf8bad53fde68
+  - enabled: 1
+    path: Assets/Scenes/ScenesSwitcher/Game.unity
+    guid: c1a2265bde732794e9b9111f02796b67
+  - enabled: 1
+    path: Assets/Scenes/ScenesSwitcher/Menu.unity
+    guid: 9a008ce6649b6c04b84931d93395df82
   m_configObjects: {}
